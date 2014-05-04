@@ -5,7 +5,7 @@ Guide and sample project so you can learn how to implement Text Candy in a Coron
 
 It assumes that you alredy have CoronaSDK at least build 2014.2189, Kwik Photoshop plugin version 3 , a copy of "Glyph Designer" and  a copy of the "Text Candy" Corona library
 
-##Where to get Corona, Kwik and Particle Candy
+##Where to get Corona, Kwik, Glyph Designer and Text Candy
 
 * CoronaSDK: http://www.coronalabs.com
 * Kwik: http://kwiksher.com/
